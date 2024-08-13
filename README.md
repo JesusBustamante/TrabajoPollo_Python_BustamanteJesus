@@ -38,7 +38,7 @@ El aplicativo debe cumplir con las siguiente especificaciones:
 
 # Estructura del Proyecto
 
-
+![alt text](image.png)
 
 # Características<a name="id5"></a>
 
